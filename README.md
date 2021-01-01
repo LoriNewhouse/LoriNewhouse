@@ -1,4 +1,8 @@
-### Hi there 👋
+I'm a Product Development Engineer for Predictive Modeling. I have been writing code for physics based calculations in commercial software products for 3 decades: fluid flow, heat transfer, chemical reactions, reservoir simulation.
+
+I started in the dark ages with FORTRAN and a card punch. The first 2 years of my PhD work I did with a line editor. Since then, I've learned C, C++, and object oriented design, along with bits of JAVA and C#. Plus, of course, a plethora of IDE's and version control tools.
+
+- 🔭 I'm currently adding python, machine learning, and data science to my repertoire via the Springboard Machine Learning Engineering bootcamp.
 
 <!--
 **LoriNewhouse/LoriNewhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
