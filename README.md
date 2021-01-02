@@ -6,7 +6,7 @@ I started in the dark ages with FORTRAN and a card punch. The first 2 years of m
 - ⚡ Fun fact: I'm a huge fan of performing arts. Mainly classical music (chamber, symphonic, baroque), but also theater, dance, and opera.
 
 ## Capstone Project for Bootcamp
-It is a multi-class classification task in environmental science. I used `pycaret` to quickly set-up and run a large number of models. I did have to write all the plotting code myself. Here are some results:
+It is a multi-class classification task in environmental science. I used `pycaret` to quickly set-up and run a large number of models. I did have to write all the plotting code myself (`pandas`, `matplotlib`, `seaborn`). Here are some results:
 - x-axis: encoding technique for non-ordinal, high cardinality categorical feature
 - y-axis: metric value
 - colored dots: model
