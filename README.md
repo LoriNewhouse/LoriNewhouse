@@ -2,10 +2,10 @@ I have been writing code for physics based calculations in commercial software p
 
 I started in the dark ages with FORTRAN and a card punch. The first 2 years of my PhD work I did with a line editor. Since then, I've learned C, C++, and object oriented design, along with bits of JAVA and C#. Plus, of course, a plethora of IDE's and version control tools.
 
-- 🔭 I'm currently adding python, machine learning, and data science to my repertoire via the Springboard Machine Learning Engineering bootcamp.
+- 🔭 I'm currently adding python, machine learning, and data science to my repertoire via the Springboard Machine Learning Engineering Certification Program.
 - ⚡ Fun fact: I'm a huge fan of performing arts. Mainly classical music (chamber, symphonic, baroque), but also theater, dance, and opera.
 
-## Capstone Project for Bootcamp
+## Capstone Project for MLE Certification Program
 It is a multi-class classification task in environmental science. I used `pycaret` to quickly set-up and run a large number of models. I did have to write all the plotting code myself (`pandas`, `matplotlib`, `seaborn`). Here are some results:
 - x-axis: encoding technique for non-ordinal, high cardinality categorical feature
 - y-axis: metric value
