@@ -17,7 +17,7 @@ It is a multi-class classification task in environmental science. I used `pycare
 ![class_metrics](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/soil_encoding_by_class.PNG)
 
 Go here for more information
-https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/README.md
+https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_Certification_Program/blob/main/capstone_project/README.md
 
 
 <!--
