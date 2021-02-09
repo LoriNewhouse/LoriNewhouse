@@ -19,7 +19,7 @@ Decision Tree and CatBoost models were tuned using 3-fold cross-validation with 
 
 ### finalized model
 Decision Tree model was finalized by fitting with all the data and the tuned hyper-parameters.
-![finalize_by_class](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/finalize_by_class.PNG)
+![finalized_by_class](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/finalized_by_class.PNG)
 
 Go here for more information
 https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_Certification_Program/blob/main/capstone_project/README.md
