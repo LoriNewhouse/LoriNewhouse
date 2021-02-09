@@ -7,14 +7,19 @@ I started in the dark ages with FORTRAN and a card punch. The first 2 years of m
 
 ## Capstone Project for MLE Certification Program
 It is a multi-class classification task in environmental science. I used `pycaret` to quickly set-up and run a large number of models. I did have to write all the plotting code myself (`pandas`, `matplotlib`, `seaborn`). Here are some results:
-- x-axis: encoding technique for non-ordinal, high cardinality categorical feature
+- x-axis: encoding technique for non-ordinal, high cardinality categorical feature; minority classes over-sampling technique (factor=3 or 1.5)
 - y-axis: metric value
 - colored dots: model
 ### overall accuracy
-![model_metric](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/soil_encoding_accuracy.PNG)
+![model_accuracy](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/model_accuracy.PNG)
 
-### metrics for 2 target classes (fraction present in training set)
-![class_metrics](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/soil_encoding_by_class.PNG)
+### model tuning
+Decision Tree and CatBoost models were tuned using 3-fold cross-validation with 15 iterations.
+![tune_by_class](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/tune_by_class.PNG)
+
+### finalized model
+Decision Tree model was finalized by fitting with all the data and the tuned hyper-parameters.
+![finalize_by_class](https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_bootcamp/blob/main/capstone_project/images/finalize_by_class.PNG)
 
 Go here for more information
 https://github.com/LoriNewhouse/Springboard_Machine_Learning_Engineering_Certification_Program/blob/main/capstone_project/README.md
